@@ -11,7 +11,7 @@ spec:
     matchLabels:
       app: roar-web  
   replicas: 
-  template:2
+  template: 2
     metadata:
       labels:
         name: roar-web
